@@ -17,7 +17,7 @@
 
 Если не отображаются фотографии на сайте:
 1) Удалить файл storage по пути homestead-main/public/public
-2) В терминале зайти в контейнер php-1 (docker exec -it <id-container-php-1> bash)
+2) В терминале зайти в контейнер php-1 (docker exec -it id-container-php-1 bash)
 3) Написать php artisan storage:link
 4) Обновить страницу (Ctrl + F5)
 
