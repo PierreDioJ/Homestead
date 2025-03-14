@@ -11,6 +11,7 @@
                  landlord3@mail.ru 12345678
                  landlord4@mail.ru 12345678
 3) Администратор: admin@mail.ru 12345678
+
 База данных (homestead) находится на http://localhost:7070/
 *root* *root*
 
