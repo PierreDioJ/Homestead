@@ -1,0 +1,4 @@
+# Игнорировать все .sock файлы
+*.sock
+# Или конкретно этот сокет
+docker-config/database/mysql/mysql.sock
